@@ -1,5 +1,7 @@
 <p align="center">
- <img width=200px src="https://img.cleymax.fr/private/icons-hypixel.png" alt="Project logo"></a>
+    <a>
+        <img width=100px src="https://img.cleymax.fr/private/icons-hypixel.png" alt="Project logo">
+    </a>
 </p>
 
 <h3 align="center">HypiAPI</h3>
@@ -15,6 +17,12 @@
 
 ---
 
-<p align="center"> :zap: A Java implementation of Hypixel API (not official) :zap:
+<p align="center"> 🍀 This is a Java implementation of the Hypixel API
     <br> 
 </p>
+
+## 📝 Table of Contents
+- [Authors](#authors)
+
+## ✍️ Authors <a name = "authors"></a>
+- [@Cleymax](https://github.com/Cleymax) - Idea & Initial work
